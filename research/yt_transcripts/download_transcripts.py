@@ -12,7 +12,7 @@ video_urls = [
     "https://www.youtube.com/watch?v=2tgEvv9Irrc"
 ]
 
-output_folder = os.path.join("research", "youtube-transcripts")
+output_folder = os.path.join ("youtube_transcripts")
 os.makedirs(output_folder, exist_ok=True)
 print(f"📁 Ensuring folder exists at: {output_folder}")
 

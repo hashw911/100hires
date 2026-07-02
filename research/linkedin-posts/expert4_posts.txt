@@ -1,0 +1,55 @@
+Gurus are everywhere telling me how they completely automated their entire Go-To-Market teams.
+
+"Just comment on this post and I'll show you how to sit back while AI does 100% of the work."
+
+But then I looked at the actual creators of AI.
+
+Anthropic - the genius team behind Claude Code.
+
+They currently have 16 open positions in marketing.
+
+And 69 open positions in sales.
+
+Their sales and marketing headcounts are growing just as fast as their engineering teams.
+
+So here is the big question:
+
+If AI can magically automate your entire GTM stack...
+
+Why are the creators of leading AI models hiring an army of humans to run their Go-To-Market organization?
+
+The reality is that many founders are getting "AI drunk." 
+
+They are trusting generic AI outputs blindly, replacing strategy with automated noise, and wondering why their pipeline is dry.
+
+When I started my last company, ToutApp (backed by a16z), I was a pure engineer. 
+
+I hated sales. I hated marketing. I just wanted a Stripe link so people would pay me with a credit card.
+
+But to pioneer the sales engagement category and win, I had to learn to embrace true GTM strategy. 
+
+We scaled ToutApp and sold it to Marketo. 
+
+I then joined Marketo’s executive team as SVP of Strategy, where we did a 2 year GTM transformation, leading to the acquisition of Marketo by Adobe for $4.75bn.
+
+Today, through my work at TK | Capital and our advisory firm Unstoppable, we’ve helped hundreds of AI and SaaS companies build differentiated GTM engines.
+
+What I can tell you from the trenches in 2026 is this: 
+
+Building software is easier than ever. But Go-To-Market is harder than ever. 
+
+If you just drop in an army of autonomous AI agents without a foundational strategy, they won't know what to do. 
+
+But when you possess a battle-tested GTM framework, AI acts as a massive force multiplier for your human team's output.
+
+On today’s Unstoppable Sunday episode, I am breaking down the 2026 Go-To-Market Strategy Framework built on 3 core principles:
+
+1. Media Over Outbound: Traditional outbound is dead because inboxes are flooded with automated AI slop. You must master a media strategy that hooks into macro trends and forces ideal buyers to come to you.
+
+2. Addictive Product Loops: It’s no longer enough to gate your product or use template websites. You need to get users into an immediate "aha" experience—whether that’s a frictionless free tier or a high-value interactive subset tool.
+
+3. Solution-Led Sales: Stop trying to build a business on $99/month self-serve tiers that churn. You must introduce high-ticket human sales engines that sell enterprise transformations and outcomes, using AI on the backend to maximize your delivery margins.
+
+Watch today’s episode to get the exact strategic blueprint to align your team, your product, and your AI stack for the next stage of growth.
+
+The link to the full breakdown is in the comments below! 👇

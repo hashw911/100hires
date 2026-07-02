@@ -28,6 +28,6 @@ This repository contains my setup for the initial phase of the 100Hires portfoli
 **=========================================================================**
 
 ## Phase 2: Research Project
-* **Topic Chosen:** [YouTube Content Strategy for B2B SaaS]
+* **Topic Chosen:** YouTube Content Strategy for B2B SaaS
 * **Expert Selection:** I avoided generic bloggers and only selected founders and creators who have demonstrably built audiences or revenues using these strategies. My full list is in `/research/sources.md`.
 * **Methodology:** To collect the data, I utilized the `youtube-transcript-api` via a custom Python script to pull video transcripts. I also manually curated their most valuable LinkedIn posts to supplement the data.

@@ -17,7 +17,14 @@ This repository contains my setup for the initial phase of the 100Hires portfoli
 
 ## Issues Encountered & Solutions
 * **[ Issue 1 ]:** I wasn't entirely sure how to link my local folder to the GitHub repository. 
+<<<<<<< HEAD
 * **[ How I Solved It ]:** I searched YouTube for "how to clone a GitHub repository" and learned how to use the Git Clone command in the IDE to sync the folders.
 
 * **[ Issue 2 ]:** I was not able to find the extensions menu at first because the Cursor IDE environment is completely new to me.
 * **[ How I Solved It :** I took some time to explore the interface, hovered over the different icons on the left sidebar to see their names, and found the "Extensions" tab in Open Editor Window, so I could search for Claude Code and Codex.
+=======
+* **[How I Solved It]:** I searched YouTube for "how to clone a GitHub repository" and learned how to use the Git Clone command in the IDE to sync the folders.
+
+* **[ Issue 2 ]:** I was not able to find the extensions menu at first because the Cursor IDE environment is completely new to me.
+* **[ How I Solved It ]:** I took some time to explore the interface, hovered over the different icons on the left sidebar to see their names, and found the "Extensions" tab in Open Editor Window, so I could search for Claude Code and Codex.
+>>>>>>> 3ee23ddd54aca7f1e67b17b1f1de4a68d19e5bb8

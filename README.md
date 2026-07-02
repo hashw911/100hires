@@ -1,5 +1,7 @@
 # 100Hires Portfolio Project
 
+## Phase 1: Installation 
+
 This repository contains my setup for the initial phase of the 100Hires portfolio project.
 
 ## Tools Installed
@@ -23,7 +25,8 @@ This repository contains my setup for the initial phase of the 100Hires portfoli
 * **[ Issue 2 ]:** I was not able to find the extensions menu at first because the Cursor IDE environment is completely new to me.
 * **[ How I Solved It :** I took some time to explore the interface, hovered over the different icons on the left sidebar to see their names, and found the "Extensions" tab in Open Editor Window, so I could search for Claude Code and Codex.
 
-**=========================================================================**
+**===================================================================================**
+
 ## Phase 2: Research Project
 * **Topic Chosen:** [YouTube Content Strategy for B2B SaaS]
 * **Expert Selection:** I avoided generic bloggers and only selected founders and creators who have demonstrably built audiences or revenues using these strategies. My full list is in `/research/sources.md`.

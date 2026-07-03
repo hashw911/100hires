@@ -48,4 +48,3 @@ for url in video_urls:
         print(f"❌ FAILED for {video_id}. Reason: {e}")
 
 print("\n🎉 Script is completely finished!")
-

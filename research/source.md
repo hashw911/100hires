@@ -65,4 +65,5 @@
 * **LinkedIn:** https://www.linkedin.com/in/tommyismyname/
 * **YouTube:** https://www.youtube.com/@thecontentstudioofficial
 * **Date Found:** July 2, 2026
-* **Why I chose them:** Former Head of Content at Shopify Plus and QuickBooks. He is a veteran content marketer who specializes in helping high-growth B2B enterprise software companies design editorial and video workflows that scale.
+* **Why I chose them:** Former Head of Content at Shopify Plus and QuickBooks. He is a veteran content marketer who specializes in helping high-growth B2B enterprise software companies design editorial and video workflows that scale.    
+

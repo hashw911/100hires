@@ -30,3 +30,17 @@ The objective of this playbook is to utilize YouTube not just for brand awarenes
 * While highly popular in consumer YouTube strategy, I rejected clever, click-baity video titles for B2B because, as Sam Oh pointed out, the title must contain the exact keyword (e.g., "how to use Google Docs") to rank in Google and feed AI Overviews.
 * I rejected the idea of uploading raw podcast and webinar dumps entirely because, as highlighted by Samu Kovács, YouTube requires custom hooks, visual contrast, and high-retention scripting, whereas raw webinars destroy channel retention metrics and suppress algorithmic reach.
 
+## 4. My Original Ideas
+
+* I propose combining Rob Walling's "Integration Marketing" with Samu Kovács's high-retention video structure by creating a highly produced 10-minute YouTube video solving a complex, real-world workflow using both tools instead of a standard blog post announcement. This could work because by co-promoting this video to the partner's audience, you legally hijack their brand keyword on YouTube, and actively demonstrating the output triggers TK Kader's "Aha moment" instantly without making them sign up for a trial first.
+
+## 5. Weaknesses of This Playbook
+
+* This playbook relies heavily on Sam Oh's data that YouTube transcripts train LLMs like ChatGPT, but LLM citation algorithms are highly volatile, meaning if OpenAI or Google shifts how they parse video data, the indirect organic traffic from AI overviews could vanish overnight.
+* Producing four highly scripted, custom-thumbnail videos a month requires significant editing resources, and early-stage bootstrapped startups may run out of cash before the YouTube algorithm begins compounding their search hits, as Rob Walling correctly notes that audience building is slow.
+
+## 6. Who I Would NOT Recommend Following and Why
+
+Of the 10 experts researched, I would explicitly NOT recommend following Alex Hormozi when developing a B2B SaaS YouTube strategy.
+
+Hormozi is undoubtedly a master of content marketing, but his specific frameworks are heavily optimized for B2C audiences, info-products, and low-ticket services, relying on hyper-aggressive volume, "loud" copywriting, and high-velocity dopamine editing. Attempting to apply his consumer-centric, high-pressure aesthetic to a B2B SaaS environment—where sales cycles take six months, involve buying committees, and require deep technical trust—will result in a severe brand mismatch and risks making an enterprise software company appear unprofessional rather than acting as a trusted technological partner.

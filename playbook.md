@@ -3,10 +3,10 @@
 ## 1. Core Strategy & The Execution Pipeline
 The objective of this playbook is to utilize YouTube not just for brand awareness, but as an Answer Engine Optimization (AEO) and Inbound Media channel for B2B SaaS.
 
-* B2B buyers use YouTube to solve specific workflow problems, so avoid chasing viral spikes and instead create "Search Hits" that get consistent traffic month after month, especially since YouTube mentions have a 0.737 correlation with ChatGPT visibility. (source: Sam Oh, [https://www.youtube.com/watch?v=AhrefsVideo from 02.08.2026])
-* Architect your product so users achieve an immediate "aha" moment and share the output of the software on organic social media, and then amplify those user posts using paid social ads. (source: TK Kader, [https://www.youtube.com/watch?v=TKKaderVideo from 15.07.2026])
-* Ensure the target keyword is spoken out loud in the video audio, placed directly in the title, and use timestamps to create YouTube chapters that rank independently on Google. (source: Sam Oh, [https://www.youtube.com/watch?v=AhrefsVideo from 02.08.2026])
-* Stop using YouTube as a storage folder for raw podcast dumps, and instead script 10-13 minute videos tailored to business functions using outlier thumbnails mapped from tools like VidIQ. (source: Samu Kovács, [https://www.linkedin.com/in/samu-kovacs/post from 20.07.2026])
+* B2B buyers use YouTube to solve specific workflow problems, so avoid chasing viral spikes and instead create "Search Hits" that get consistent traffic month after month, especially since YouTube mentions have a 0.737 correlation with ChatGPT visibility. (source: Sam Oh, [https://www.youtube.com/watch?v=_b_cTpLHMTM from 13.05.2026])
+* Architect your product so users achieve an immediate "aha" moment and share the output of the software on organic social media, and then amplify those user posts using paid social ads. (source: TK Kader, [https://www.youtube.com/watch?v=8KVqebVRXe8 from 07.06.2026])
+* Ensure the target keyword is spoken out loud in the video audio, placed directly in the title, and use timestamps to create YouTube chapters that rank independently on Google. (source: Sam Oh, [https://www.youtube.com/@AhrefsCom from 13.05.2026])
+* Stop using YouTube as a storage folder for raw podcast dumps, and instead script 10-13 minute videos tailored to business functions using outlier thumbnails mapped from tools like VidIQ. (source: Samu Kovács, [https://www.linkedin.com/in/samu-kovacs/post from 20.06.2026])
 
 ## 2. Where Experts Disagree
 
